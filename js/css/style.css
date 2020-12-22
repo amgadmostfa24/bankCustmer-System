@@ -1,0 +1,11 @@
+.container {
+  display: grid;
+  grid-template-columns: 260px 60px 60px;
+  height: 300px;
+  grid-gap: 20px;
+  background-color: aqua;
+}
+.container2 {
+  display: grid;
+  grid-template-rows: 60px 60px 60px;
+}
